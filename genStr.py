@@ -18,9 +18,24 @@ from pyrogram.errors import (
 bot = Bot()
 
 API_TEXT = """Hi {}
-Welcome to Pyrogram's `HU_STRING_SESSION` generator Powered by @rihu_mone
+Welcome to @rihu_mone assistant bot
 
-`Send your API_ID to Continue.`"""
+
+`「 Telegram Information✔️: 」
+ID: 1600532722
+First Name: ➽RIHAAL
+Username: @Rihu_mone
+Permalink: link
+Presence: Detected
+
+Health: 70/100
+[■■■■■■■□□□ 70%]
+
+Malicious: ???
+
+╘══「 Groups count: 0 」
+
+Blacklisted: No.`"""
 HASH_TEXT = "`Send your API_HASH to Continue.`\n\nPress /cancel to Cancel."
 PHONE_NUMBER_TEXT = (
     "`Now send your Phone number to Continue"
